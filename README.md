@@ -41,6 +41,10 @@ This Logger is the best to the best logger you have many options to use from.
 
 ![image](https://github.com/Arsky14530/Arsky-V3/assets/92093860/49e50d92-dbe8-4bba-a5d8-0f1b2e13bef3)
 
-![image](https://github.com/Arsky14530/Arsky-V3/assets/92093860/6af50635-9b75-4ed0-b254-9c6012b93555)
+![image](https://github.com/Arsky14530/Arsky-Logger/assets/92093860/52a12338-70c9-4a96-b3fb-39fb295c2191)
 
 ![image](https://github.com/Arsky14530/Arsky-V3/assets/92093860/e0e394fa-60f9-459a-9bd0-fe07a369bc99)
+
+![image](https://github.com/Arsky14530/Arsky-Logger/assets/92093860/24a58238-cf22-43d7-81cd-2ecf82b04402)
+
+![image](https://github.com/Arsky14530/Arsky-Logger/assets/92093860/78db0045-6a5a-4670-8cd5-94b49fc8ebb5)
